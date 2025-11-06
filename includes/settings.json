@@ -1,0 +1,45 @@
+{
+    "site": {
+        "name": "MEMUR BLOG",
+        "description": "Memur Blog Açıklaması",
+        "url": "https://memur.info/soru",
+        "email": "mail@blog.blog",
+        "language": "tr",
+        "timezone": "Europe/Istanbul",
+        "posts_per_page": 10,
+        "maintenance_mode": false
+    },
+    "social": {
+        "facebook": "https://facebook.com/memurblog",
+        "twitter": "https://twitter.com/memurblog",
+        "instagram": "https://instagram.com/memurblog",
+        "youtube": "",
+        "linkedin": ""
+    },
+    "seo": {
+        "meta_description": "Memur Blog - Kamu çalışanları için güncel haberler ve bilgiler",
+        "meta_keywords": "memur, kamu, devlet, bilişim, teknoloji, haber",
+        "google_analytics": "",
+        "google_site_verification": "",
+        "bing_verification": ""
+    },
+    "comments": {
+        "enabled": true,
+        "approval_required": true,
+        "max_length": 1000,
+        "nested_comments": true,
+        "nesting_level": 3
+    },
+    "system": {
+        "cache_enabled": true,
+        "cache_duration": 3600,
+        "image_compression": true,
+        "max_upload_size": 5,
+        "allowed_file_types": "jpg,jpeg,png,gif,pdf,doc,docx"
+    },
+    "custom": {
+        "head_code": "<!-- Google Analytics kodu buraya -->",
+        "favicon": "uploads/favicon.ico",
+        "site_logo": "uploads/logo.png"
+    }
+}

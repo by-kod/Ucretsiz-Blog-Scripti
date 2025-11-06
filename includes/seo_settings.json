@@ -1,0 +1,14 @@
+{
+    "permalink_structure": "\/%postname%.html",
+    "generate_sitemap": true,
+    "sitemap_frequency": "weekly",
+    "sitemap_priority": "0.8",
+    "rss_enabled": true,
+    "rss_items": 10,
+    "meta_robots": "index, follow",
+    "open_graph": true,
+    "twitter_cards": true,
+    "structured_data": true,
+    "auto_meta": true,
+    "canonical_urls": true
+}
