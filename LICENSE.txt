@@ -1,0 +1,25 @@
+Blog AI - Açık Kaynak Blog Scripti
+Copyright (c) 2025 ByKod
+
+Bu yazılım GNU General Public License v3.0 (GPLv3) kapsamında lisanslanmıştır.
+
+Bu lisans kapsamında:
+- Herkes yazılımı kullanabilir, kopyalayabilir, dağıtabilir ve değiştirebilir.
+- Ancak dağıtılan veya türetilen tüm versiyonların da aynı GPLv3 lisansı altında paylaşılması gerekir.
+- Yazılım ticari olarak kullanılabilir, ancak kaynak kodun kapatılması yasaktır.
+- Yazılım, “OLDUĞU GİBİ” sunulmaktadır. Herhangi bir garanti verilmez.
+
+Lisansın tam İngilizce metni aşağıdadır:
+
+------------------------------------------------------------
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc.
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+ (Tam lisans metni: https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+------------------------------------------------------------
