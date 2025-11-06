@@ -1,0 +1,7 @@
+Bu program özgür bir yazılımdır: onu yeniden dağıtabilir ve/veya GNU Genel Kamu Lisansı (GNU General Public License) tarafından yayınlanan koşullara (Lisans'ın 3. sürümü ya da isteğe bağlı olarak daha sonraki bir sürümü) uygun olarak değiştirebilirsiniz.
+
+Bu programın dağıtımı, yararlı olacağı umuduyla yapılmıştır, ancak HİÇBİR GARANTİ VERİLMEZ; ticari elverişlilik (MERCHANTABILITY) veya belirli bir amaca uygunluk (FITNESS FOR A PARTICULAR PURPOSE) gibi zımni bir garanti bile. Daha fazla ayrıntı için GNU Genel Kamu Lisansına bakın.
+
+Bu programla birlikte GNU Genel Kamu Lisansının bir kopyasını almış olmanız gerekir. Almadıysanız, <https://www.gnu.org/licenses/> adresine bakın.
+
+Telif Hakkı (Copyright) Yılı: 2025 [ByKod]
